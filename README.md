@@ -23,4 +23,24 @@ Type sqlite3 with database name to create database and press enter, you should s
 
 **STEP-4**
 
-Creating Table movieinfo
+Creating Table movieinfo 
+
+![Screenshot (190)](https://user-images.githubusercontent.com/42672656/139413767-8c651dca-ffc3-4c2d-be88-75d1df33d26a.png)
+
+**STEP-5**
+
+Inserting values into movieinfo
+
+![Screenshot (198)](https://user-images.githubusercontent.com/42672656/139415507-53cfb292-3816-423b-84d5-18a5190a91e3.png)
+
+**STEP-6**
+
+Querying using SELECT Statement
+
+![Querying](https://user-images.githubusercontent.com/42672656/139416663-772fb2bc-a340-4d8b-8c9b-2a913333e21a.PNG)
+
+**STEP-7**
+
+Querying using SELECT with specific parameters
+
+![Select with parameter](https://user-images.githubusercontent.com/42672656/139417110-24dd3e57-6a07-45ac-b938-af60caf577cb.PNG)
