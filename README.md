@@ -4,15 +4,23 @@ A Simple Movie Database
 Installing SQLite
 
 **STEP-1**
+
 Create a new folder e.g., C:\sqlite.
 
-![Screenshot (189)](https://user-images.githubusercontent.com/42672656/139411824-5edb2e4f-b1ef-403c-b3f4-677e5eadf429.png)
+![Create sqlite](https://user-images.githubusercontent.com/42672656/139412969-bc72b552-622a-448c-b052-7590b475d7f7.PNG)
 
 **STEP-2**
+
 Navigate to the C:\sqlite folder:
 
-![Navigate](https://user-images.githubusercontent.com/42672656/139412146-6a8f6c61-2a9d-4ef7-9726-7ffb7676f42c.PNG)
+![Navigate](https://user-images.githubusercontent.com/42672656/139413116-8acd1a63-5622-49c6-af71-e98249c82e87.PNG)
 
 **STEP-3**
-Type sqlite3 and press enter, you should see the following output:
 
+Type sqlite3 with database name to create database and press enter, you should see the following output:
+
+![Screenshot (189)](https://user-images.githubusercontent.com/42672656/139413345-03128c47-1007-4042-b3a8-03d7fe576e20.png)
+
+**STEP-4**
+
+Creating Table movieinfo
